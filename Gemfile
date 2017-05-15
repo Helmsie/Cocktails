@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 gem 'coffee-rails', '~> 4.1.0'
+gem 'devise', '~> 4.2', '>= 4.2.1'
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'

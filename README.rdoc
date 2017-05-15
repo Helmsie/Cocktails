@@ -3,3 +3,9 @@
 Development
 
 Simple form & HAML instead of ERB
+
+Noted Errors
+
+when clicking add step or add ingredient the page will always refresh clearing any information in the fields already
+When adding fields such as "Add Ingredient" it will add either 2 or 5 new boxes for the user to type in
+When deleting recipies such as my cookie recipe it ask the user to delete the recipe multiple times 2-5 times
