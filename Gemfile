@@ -12,7 +12,6 @@ gem 'sass-rails', '~> 5.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'sdoc', '~> 0.4.0'
 gem 'simple_form', '~> 3.4'
-gem 'sqlite3'
 gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0', group: :doc
 
