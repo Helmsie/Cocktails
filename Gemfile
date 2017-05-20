@@ -18,9 +18,14 @@ gem 'uglifier', '>= 1.3.0', group: :doc
 
 group :development, :test do
   gem 'byebug'
+  gem 'sqlite3'
 end
 
 group :development do
   gem 'spring'
   gem 'web-console', '~> 2.0'
+end
+
+group :production do
+  gem 'pg'
 end
