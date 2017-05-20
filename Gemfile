@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'bootstrap-sass', '~> 3.3'
 gem 'bcrypt', '~> 3.1.7'
+gem 'bootstrap-sass', '~> 3.3'
 gem 'cocoon', '~> 1.2'
 gem 'devise', '~> 4.3'
 gem 'haml', '~> 5.0'
